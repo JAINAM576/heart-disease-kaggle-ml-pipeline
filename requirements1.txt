@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+mlflow
+scikit-learn
+python-dotenv
+catboost
+xgboost
+lightgbm
